@@ -229,7 +229,7 @@ $locale['Year'] = 'Év';
 
 $locale['_widgets'] = [
     0 => [
-        'label' => 'Kíváló',
+        'label' => 'Kiváló',
         'icon' => 'fa-smile-o',
         'recommendations' => [
             [
